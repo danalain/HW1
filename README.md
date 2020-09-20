@@ -1,4 +1,4 @@
-# Financial Technology Case Study: Pay Pal
+# Financial Technology Case Study: PayPal
 ## PayPal and the Founders
 PayPal is an American e-commerce company and originated starting from December of 1998. However, it hasn't officially become the PayPal, yet. In March of 2000, Confinity marched with X.com founded by Elon Musk and became the PayPal we all know today. Confinity was founded by Max Levchin, Peter Thiel, and Luke Nosek. Elon Musk joined as Confinity and X.com marched. Then, Peter Thiel, a billionaire entrepreneur and venture capitalist, and Yu Pan, a very talented software engineer entered the game and co-founded PayPal. 
 ## The Funds Started Rolling In!
